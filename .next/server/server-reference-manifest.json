@@ -1,0 +1,13 @@
+{
+  "node": {
+    "298792fca6be5a7a371c484136459b9119b88a33": {
+      "workers": {
+        "app/page": "(sc_action)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fheptagon%2FDocuments%2FHarish%2Fnext%20js%2Fportfolio-Harish%2Factions%2FsendEmail.ts%22%2C%5B%22sendEmail%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "sc_action"
+      }
+    }
+  },
+  "edge": {}
+}
