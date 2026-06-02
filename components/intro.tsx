@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Harish V.</span> I'm a{" "}
         <span className="font-bold">front-end developer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
+        <span className="font-bold">4.4 years</span> of experience. I enjoy
         building <span className="italic">mobile apps & web sites</span>. My focus is{" "}
         <span className="underline">React Native</span> and{" "}
         <span className="underline">React (Next.js)</span>.
