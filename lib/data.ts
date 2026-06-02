@@ -56,7 +56,15 @@ export const experiencesData = [
     title: "Software Engineer @Quess Crp Ltd",
     location: "Bangalore, India",
     description:
-      "I'm now  currently working as a  Mobile App developer. My stack includes React-Native(Mobile App), React, Next.js, JavaScript, TypeScript, Tailwind. I'm open to full-time opportunities.",
+      "I'm now  currently working as a  Mobile App developer. My stack includes React-Native(Mobile App), React, Next.js, JavaScript, TypeScript, Tailwind.",
+    icon: React.createElement(FaReact),
+    date: "Sep-2023 to present",
+  },
+  {
+    title: "Senior Software Engineer @Xevyte Technologies",
+    location: "Bangalore, India",
+    description:
+      "I'm now  currently working as a senior Mobile App developer. My stack includes React-Native(Mobile App), React, Next.js, JavaScript, TypeScript, Tailwind, redux - toolkit, RTK - query. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
     date: "Sep-2023 to present",
   },
