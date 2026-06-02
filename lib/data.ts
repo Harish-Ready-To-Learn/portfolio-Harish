@@ -58,7 +58,7 @@ export const experiencesData = [
     description:
       "I'm now  currently working as a  Mobile App developer. My stack includes React-Native(Mobile App), React, Next.js, JavaScript, TypeScript, Tailwind.",
     icon: React.createElement(FaReact),
-    date: "Sep-2023 to present",
+    date: "Sep-2023 to April-2025",
   },
   {
     title: "Senior Software Engineer @Xevyte Technologies",
@@ -66,7 +66,7 @@ export const experiencesData = [
     description:
       "I'm now  currently working as a senior Mobile App developer. My stack includes React-Native(Mobile App), React, Next.js, JavaScript, TypeScript, Tailwind, redux - toolkit, RTK - query. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "Sep-2023 to present",
+    date: "May-2025 to present",
   },
 ] as const;
 
